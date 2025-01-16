@@ -2,7 +2,7 @@
 
 - CURD Website
   
-- Operations
+- Operations:
   
    - Display all products
    - Search for products
